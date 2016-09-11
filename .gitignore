@@ -1,15 +1,5 @@
 
-*.pdf
-
-main.log
-
-keyword.log
-
-*.log
-
-*.pdf
-
-*.pdf
+main.pdf
 
 *.log
 
@@ -21,4 +11,3 @@ keyword.log
 
 *.aux
 
-Section-1.tex
