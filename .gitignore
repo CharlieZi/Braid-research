@@ -1,24 +1,9 @@
-
-*.pdf
-
-main.log
-
-keyword.log
-
 *.log
-
-*.pdf
-
-*.pdf
-
 *.log
-
-*.log
-
 *.blg
-
 *.bbl
-
+main.pdf
 *.aux
 
-Section-1.tex
+
+main.pdf
